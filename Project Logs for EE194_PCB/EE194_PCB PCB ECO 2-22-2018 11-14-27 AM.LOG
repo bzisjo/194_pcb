@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=C60-1
+Removed Pin From Net: NetName=VPOS Pin=C60-2
+Removed Pin From Net: NetName=GND Pin=C61-2
+Removed Pin From Net: NetName=GND Pin=VNEG-MH
+Removed Pin From Net: NetName=GND Pin=VNEG-MH
+Removed Pin From Net: NetName=GND Pin=VNEG-MH
+Removed Pin From Net: NetName=GND Pin=VNEG-MH
+Removed Pin From Net: NetName=VPOS Pin=VPOS-1
+Removed Pin From Net: NetName=GND Pin=VPOS-MH
+Removed Pin From Net: NetName=GND Pin=VPOS-MH
+Removed Pin From Net: NetName=GND Pin=VPOS-MH
+Removed Pin From Net: NetName=GND Pin=VPOS-MH
+Removed Member From Class: ClassName=EE194_PCB Member=C60
+Removed Member From Class: ClassName=EE194_PCB Member=C61
+Removed Member From Class: ClassName=EE194_PCB Member=VNEG
+Removed Member From Class: ClassName=EE194_PCB Member=VPOS
+Added Component: Designator=P9(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VPOS Pin=P9-1
+Added Pin To Net: NetName=GND Pin=P9-2
+Added Member To Class: ClassName=EE194_PCB Member=Component P9 Header 2
