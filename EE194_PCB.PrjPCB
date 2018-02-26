@@ -106,13 +106,13 @@ GenerateClassCluster=0
 DocumentUniqueId=RSCFCQVW
 
 [Document5]
-DocumentPath=..\SCuMv2 PCB design\SCuMv2_PCB1.PcbLib
+DocumentPath=EE194_YESDIG_PCB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -120,7 +120,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DRGWRJEM
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for EE194_PCB\Design Rule Check - EE194_PCB.html
