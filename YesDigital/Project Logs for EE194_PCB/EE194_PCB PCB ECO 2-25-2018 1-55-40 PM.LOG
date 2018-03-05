@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VDDD_OUT Pin=P5-2
+Removed Pin From Net: NetName=VDDRF_OUT Pin=P5-3
+Change Component DesignItemId : Designator=C60 Old DesignItemId= New DesignItemId=CAP-NP-2
+Change Component DesignItemId : Designator=C61 Old DesignItemId= New DesignItemId=CAP-NP-2
+Added Pin To Net: NetName=VDDRF_OUT Pin=P5-2
+Added Pin To Net: NetName=VDDD_OUT Pin=P5-3
+Added Room: Name=EE194_PCB

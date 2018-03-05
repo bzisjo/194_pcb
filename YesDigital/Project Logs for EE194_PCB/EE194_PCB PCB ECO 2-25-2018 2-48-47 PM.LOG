@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SC_MUX_SEL33 Pin=P6-1
+Removed Pin From Net: NetName=SCAN_IN33 Pin=P6-2
+Removed Pin From Net: NetName=SCAN_OUT33 Pin=P6-3
+Removed Pin From Net: NetName=GND Pin=P6-4
+Removed Pin From Net: NetName=GND Pin=U3-14
+Removed Pin From Net: NetName=GND Pin=U4-14
+Added Pin To Net: NetName=SCAN_IN33 Pin=P6-1
+Added Pin To Net: NetName=SCAN_OUT33 Pin=P6-2
+Added Pin To Net: NetName=SC_MUX_SEL33 Pin=P6-8
+Added Pin To Net: NetName=SCIO0133 Pin=P6-4
+Added Pin To Net: NetName=SCIO0133 Pin=U3-14
+Added Net: Name=SCIO0133

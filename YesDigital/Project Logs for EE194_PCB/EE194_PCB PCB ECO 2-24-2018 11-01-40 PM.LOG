@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=ANT Pin=C27-2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=RF_OUT1-1
+Added Net: Name=NetR1_1
+Added Room: Name=EE194_PCB

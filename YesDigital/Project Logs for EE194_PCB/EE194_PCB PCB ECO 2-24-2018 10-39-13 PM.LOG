@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=C60 Old DesignItemId=CMP-2008-02878-2 New DesignItemId=
+Change Component DesignItemId : Designator=C61 Old DesignItemId=CMP-2008-02878-2 New DesignItemId=
+Change Component Library : Designator=C60 Old Library=Altium Content Vault New Library=EE194_PCB.SchLib
+Change Component Library : Designator=C61 Old Library=Altium Content Vault New Library=EE194_PCB.SchLib
+Added Room: Name=EE194_PCB
