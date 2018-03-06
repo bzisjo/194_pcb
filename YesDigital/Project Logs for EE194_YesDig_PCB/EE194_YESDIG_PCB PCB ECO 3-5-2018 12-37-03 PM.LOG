@@ -1,0 +1,303 @@
+Removed Pin From Net: NetName=GND Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P2-3
+Removed Pin From Net: NetName=GND Pin=P3-3
+Removed Pin From Net: NetName=GND Pin=P4-3
+Removed Pin From Net: NetName=GND Pin=P6-3
+Removed Pin From Net: NetName=VDD_08V Pin=P8-1
+Removed Pin From Net: NetName=GND Pin=P8-3
+Removed Pin From Net: NetName=NetC19_2 Pin=P9-1
+Removed Pin From Net: NetName=NetC20_2 Pin=P9-2
+Removed Pin From Net: NetName=GND Pin=P9-3
+Removed Pin From Net: NetName=NetC24_2 Pin=P11-1
+Removed Pin From Net: NetName=VBAT Pin=P11-2
+Removed Pin From Net: NetName=GND Pin=P11-3
+Removed Pin From Net: NetName=VDD_08V Pin=P12-1
+Removed Pin From Net: NetName=GND Pin=P12-3
+Removed Pin From Net: NetName=VDD_08V Pin=P16-1
+Removed Pin From Net: NetName=GND Pin=P16-3
+Removed Pin From Net: NetName=VDD_08V Pin=P19-1
+Removed Pin From Net: NetName=GND Pin=P19-3
+Removed Member From Class: ClassName=EE194_YESDIG_PCB Member=P17
+Removed Member From Class: ClassName=EE194_YESDIG_PCB Member=P18
+Removed Member From Class: ClassName=EE194_YESDIG_PCB Member=P19
+Removed Member From Class: ClassName=EE194_YESDIG_PCB Member=P20
+Change Component Footprint: Designator=P1 Old Footprint=LIBRARYSOURCE=Vault New Footprint=AMPH-68000-102HLF_V
+Change Component Footprint: Designator=P2 Old Footprint=LIBRARYSOURCE=Vault New Footprint=AMPH-68000-102HLF_V
+Change Component Footprint: Designator=P3 Old Footprint=LIBRARYSOURCE=Vault New Footprint=AMPH-68000-102HLF_V
+Change Component Footprint: Designator=P4 Old Footprint=LIBRARYSOURCE=Vault New Footprint=AMPH-68000-102HLF_V
+Change Component Footprint: Designator=P8 Old Footprint=LIBRARYSOURCE=Vault New Footprint=AMPH-68000-102HLF_V
+Change Component Footprint: Designator=RF_OUT1 Old Footprint=LIBRARYSOURCE=Vault New Footprint=ROS-32K101-400L5_V
+Change Component Footprint: Designator=P5 Old Footprint=LIBRARYSOURCE=Vault New Footprint=SMTC-TSW-103-07-X-S
+Change Component Footprint: Designator=P7 Old Footprint=LIBRARYSOURCE=Vault New Footprint=SMTC-TSW-103-07-X-S
+Change Component Footprint: Designator=P10 Old Footprint=LIBRARYSOURCE=Vault New Footprint=SMTC-TSW-103-07-X-S
+Change Component Footprint: Designator=P13 Old Footprint=LIBRARYSOURCE=Vault New Footprint=SMTC-TSW-103-07-X-S
+Change Component Footprint: Designator=P6 Old Footprint=SMTC-TSW-103-07-X-S New Footprint=AMPH-68000-102HLF_V
+Change Component Comment : Designator=P1 Old Comment=TSW-103-07-F-S New Comment=68000-102HLF
+Change Component Comment : Designator=P2 Old Comment=TSW-103-07-F-S New Comment=68000-102HLF
+Change Component Comment : Designator=P3 Old Comment=TSW-103-07-F-S New Comment=68000-102HLF
+Change Component Comment : Designator=P4 Old Comment=TSW-103-07-F-S New Comment=68000-102HLF
+Change Component Comment : Designator=P6 Old Comment=TSW-103-07-F-S New Comment=68000-102HLF
+Change Component Comment : Designator=P8 Old Comment=TSW-103-07-F-S New Comment=68000-102HLF
+Change Component Designator: OldDesignator=P10 NewDesignator=P9
+Change Component Designator: OldDesignator=P13 NewDesignator=P11
+Change Component Designator: OldDesignator=P14 NewDesignator=P12
+Change Component Designator: OldDesignator=P15 NewDesignator=P13
+Change Component Designator: OldDesignator=P17 NewDesignator=P14
+Change Component Designator: OldDesignator=P18 NewDesignator=P15
+Change Component Designator: OldDesignator=P20 NewDesignator=P16
+Change component parameters: Designator = "P1"; Footprint = "AMPH-68000-102HLF_V"; UniqueID = "\EUPKVEKM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Brand"; Value = "FCI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Gender"; Value = "Pin(Male)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "PhosphorBronze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold/GTX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/5149/68000-274228-5149165.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. F, 04/2006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Pack Quantity"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "5000MOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.amphenol.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mating Post Length"; Value = "5.84mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Angle"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions / Contacts"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-65Cto+125C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 2.54 mm, 1 x 2 Position, Height 8.38 mm, Tail Length 2.41 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "68000-102HLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Headers&WireHousings"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Type"; Value = "Headers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "68000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Post Length"; Value = "2.41mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Unshrouded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "1.5kV"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P2"; Footprint = "AMPH-68000-102HLF_V"; UniqueID = "\SANFRYTN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Brand"; Value = "FCI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Gender"; Value = "Pin(Male)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "PhosphorBronze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold/GTX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/5149/68000-274228-5149165.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. F, 04/2006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Pack Quantity"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "5000MOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.amphenol.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mating Post Length"; Value = "5.84mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Angle"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions / Contacts"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-65Cto+125C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 2.54 mm, 1 x 2 Position, Height 8.38 mm, Tail Length 2.41 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "68000-102HLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Headers&WireHousings"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Type"; Value = "Headers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "68000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Post Length"; Value = "2.41mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Unshrouded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "1.5kV"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P3"; Footprint = "AMPH-68000-102HLF_V"; UniqueID = "\NLWPPVDS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Brand"; Value = "FCI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Gender"; Value = "Pin(Male)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "PhosphorBronze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold/GTX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/5149/68000-274228-5149165.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. F, 04/2006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Pack Quantity"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "5000MOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.amphenol.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mating Post Length"; Value = "5.84mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Angle"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions / Contacts"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-65Cto+125C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 2.54 mm, 1 x 2 Position, Height 8.38 mm, Tail Length 2.41 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "68000-102HLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Headers&WireHousings"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Type"; Value = "Headers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "68000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Post Length"; Value = "2.41mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Unshrouded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "1.5kV"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P4"; Footprint = "AMPH-68000-102HLF_V"; UniqueID = "\OHCGVIHB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Brand"; Value = "FCI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Gender"; Value = "Pin(Male)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "PhosphorBronze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold/GTX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/5149/68000-274228-5149165.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. F, 04/2006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Pack Quantity"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "5000MOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.amphenol.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mating Post Length"; Value = "5.84mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Angle"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions / Contacts"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-65Cto+125C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 2.54 mm, 1 x 2 Position, Height 8.38 mm, Tail Length 2.41 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "68000-102HLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Headers&WireHousings"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Type"; Value = "Headers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "68000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Post Length"; Value = "2.41mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Unshrouded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "1.5kV"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P6"; Footprint = "AMPH-68000-102HLF_V"; UniqueID = "\GPOHAMCF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Brand"; Value = "FCI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Gender"; Value = "Pin(Male)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "PhosphorBronze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold/GTX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/5149/68000-274228-5149165.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. F, 04/2006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Pack Quantity"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "5000MOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.amphenol.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mating Post Length"; Value = "5.84mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Angle"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions / Contacts"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-65Cto+125C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 2.54 mm, 1 x 2 Position, Height 8.38 mm, Tail Length 2.41 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "68000-102HLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Headers&WireHousings"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Type"; Value = "Headers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "68000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Post Length"; Value = "2.41mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Unshrouded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "1.5kV"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P8"; Footprint = "AMPH-68000-102HLF_V"; UniqueID = "\SVPQYMDP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Brand"; Value = "FCI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Gender"; Value = "Pin(Male)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "PhosphorBronze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold/GTX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/5149/68000-274228-5149165.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. F, 04/2006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Pack Quantity"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Resistance"; Value = "5000MOhms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.amphenol.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mating Post Length"; Value = "5.84mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Angle"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions / Contacts"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-65Cto+125C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 2.54 mm, 1 x 2 Position, Height 8.38 mm, Tail Length 2.41 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "68000-102HLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Headers&WireHousings"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Type"; Value = "Headers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "68000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Post Length"; Value = "2.41mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Unshrouded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "1.5kV"; VariantName = "[No Variations]"
+Added Component: Designator=P10(AMPH-68000-102HLF_V)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Brand"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Pin(Male)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "PhosphorBronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold/GTX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/5149/68000-274228-5149165.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. F, 04/2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Pack Quantity"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "5000MOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.amphenol.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Post Length"; Value = "5.84mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Angle"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions / Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-65Cto+125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 2.54 mm, 1 x 2 Position, Height 8.38 mm, Tail Length 2.41 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "68000-102HLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Headers&WireHousings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Type"; Value = "Headers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Details"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "68000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Post Length"; Value = "2.41mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Unshrouded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "1.5kV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC19_2 Pin=P8-1
+Added Pin To Net: NetName=NetC20_2 Pin=P8-2
+Added Pin To Net: NetName=NetC24_2 Pin=P10-1
+Added Pin To Net: NetName=VBAT Pin=P10-2
+Added Pin To Net: NetName=VDD_08V Pin=U3-5
+Added Pin To Net: NetName=VDD_08V Pin=U5-5
+Added Pin To Net: NetName=VDD_08V Pin=U7-5
+Added Pin To Net: NetName=VDD_08V Pin=U9-5
+Change Net Name : Old Net Name=NetP10_2 New Net Name=NetP9_2
+Change Net Name : Old Net Name=NetP13_2 New Net Name=NetP11_2
+Added Room: Name=EE194_YESDIG_PCB

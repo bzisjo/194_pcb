@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=SCAN_IN Pin=U7-1
+Removed Pin From Net: NetName=SCAN_OUT Pin=U7-2
+Removed Pin From Net: NetName=SCIO01 Pin=U7-3
+Removed Pin From Net: NetName=SCIO0133 Pin=U7-14
+Removed Pin From Net: NetName=SCAN_OUT33 Pin=U7-15
+Removed Pin From Net: NetName=SCAN_IN33 Pin=U7-16
+Added Pin To Net: NetName=SCIO01 Pin=U9-1
+Added Pin To Net: NetName=SCAN_OUT Pin=U9-2
+Added Pin To Net: NetName=SCAN_IN Pin=U9-3
+Added Pin To Net: NetName=SCAN_IN33 Pin=U9-14
+Added Pin To Net: NetName=SCAN_OUT33 Pin=U9-15
+Added Pin To Net: NetName=SCIO0133 Pin=U9-16
+Added Room: Name=EE194_YESDIG_PCB

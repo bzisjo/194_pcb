@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=SC_MUX_SEL Pin=U9-1
+Removed Pin From Net: NetName=UARTTX Pin=U9-2
+Removed Pin From Net: NetName=UARTRX Pin=U9-3
+Removed Pin From Net: NetName=UARTRX_33 Pin=U9-14
+Removed Pin From Net: NetName=UARTTX_33 Pin=U9-15
+Removed Pin From Net: NetName=SC_MUX_SEL33 Pin=U9-16
+Added Pin To Net: NetName=SC_MUX_SEL Pin=U3-6
+Added Pin To Net: NetName=UARTTX Pin=U3-7
+Added Pin To Net: NetName=UARTRX Pin=U3-8
+Added Pin To Net: NetName=UARTRX_33 Pin=U3-9
+Added Pin To Net: NetName=UARTTX_33 Pin=U3-10
+Added Pin To Net: NetName=SC_MUX_SEL33 Pin=U3-11
+Added Room: Name=EE194_YESDIG_PCB

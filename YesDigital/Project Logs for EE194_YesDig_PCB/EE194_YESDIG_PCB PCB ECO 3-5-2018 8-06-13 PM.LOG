@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VDD_08V Pin=P1-1
+Removed Pin From Net: NetName=VDDPA Pin=P1-2
+Removed Pin From Net: NetName=VDD_08V Pin=P1-3
+Removed Pin From Net: NetName=VDDA Pin=P1-4
+Removed Pin From Net: NetName=VDD_08V Pin=P1-5
+Removed Pin From Net: NetName=VDDRF_OUT Pin=P1-6
+Removed Pin From Net: NetName=VDD_08V Pin=P1-7
+Removed Pin From Net: NetName=VDDD_OUT Pin=P1-8
+Added Pin To Net: NetName=VDDPA Pin=P1-1
+Added Pin To Net: NetName=VDD_08V Pin=P1-2
+Added Pin To Net: NetName=VDDA Pin=P1-3
+Added Pin To Net: NetName=VDD_08V Pin=P1-4
+Added Pin To Net: NetName=VDDRF_OUT Pin=P1-5
+Added Pin To Net: NetName=VDD_08V Pin=P1-6
+Added Pin To Net: NetName=VDDD_OUT Pin=P1-7
+Added Pin To Net: NetName=VDD_08V Pin=P1-8
+Added Member To Class: ClassName=EE194_YESDIG_PCB Member=Component P3 TSW-103-07-F-S
+Added Member To Class: ClassName=EE194_YESDIG_PCB Member=Component P6 Header 6
+Added Member To Class: ClassName=EE194_YESDIG_PCB Member=Component P7 Header 14
+Added Member To Class: ClassName=EE194_YESDIG_PCB Member=Component P8 Header 6
+Added Room: Name=EE194_YESDIG_PCB

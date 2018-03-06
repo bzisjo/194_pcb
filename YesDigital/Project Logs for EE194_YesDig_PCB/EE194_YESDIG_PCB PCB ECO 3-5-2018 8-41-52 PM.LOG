@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VDDPA Pin=P1-1
+Removed Pin From Net: NetName=VDDA Pin=P1-3
+Removed Pin From Net: NetName=VDDRF_OUT Pin=P1-5
+Removed Pin From Net: NetName=VDDD_OUT Pin=P1-7
+Added Pin To Net: NetName=VDDD_OUT Pin=P1-1
+Added Pin To Net: NetName=VDDRF_OUT Pin=P1-3
+Added Pin To Net: NetName=VDDA Pin=P1-5
+Added Pin To Net: NetName=VDDPA Pin=P1-7
+Added Room: Name=EE194_YESDIG_PCB

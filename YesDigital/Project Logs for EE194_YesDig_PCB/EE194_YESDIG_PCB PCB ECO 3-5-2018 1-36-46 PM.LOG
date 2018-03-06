@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=TDO Pin=U5-1
+Removed Pin From Net: NetName=TDI Pin=U5-2
+Removed Pin From Net: NetName=TMS Pin=U5-3
+Removed Pin From Net: NetName=TMS_33 Pin=U5-14
+Removed Pin From Net: NetName=TDI_33 Pin=U5-15
+Removed Pin From Net: NetName=TDO_33 Pin=U5-16
+Added Pin To Net: NetName=TDO Pin=U7-1
+Added Pin To Net: NetName=TDI Pin=U7-2
+Added Pin To Net: NetName=TMS Pin=U7-3
+Added Pin To Net: NetName=TMS_33 Pin=U7-14
+Added Pin To Net: NetName=TDI_33 Pin=U7-15
+Added Pin To Net: NetName=TDO_33 Pin=U7-16
+Added Room: Name=EE194_YESDIG_PCB

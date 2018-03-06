@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=RESET Pin=U3-1
+Removed Pin From Net: NetName=RESET_33 Pin=U3-16
+Added Pin To Net: NetName=RESET Pin=U9-8
+Added Pin To Net: NetName=RESET_33 Pin=U9-9
+Added Room: Name=EE194_YESDIG_PCB
