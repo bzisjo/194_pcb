@@ -126,6 +126,10 @@ DocumentUniqueId=UDLKKXFQ
 DocumentPath=Project Outputs for EE194_PCB\Design Rule Check - EE194_PCB.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for EE194_YesDig_PCB\Design Rule Check - EE194_YESDIG_PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
