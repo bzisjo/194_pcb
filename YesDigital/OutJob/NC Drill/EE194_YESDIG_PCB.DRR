@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: EE194_YESDIG_PCB.PcbDoc   3/14/2018  3:25:50 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : EE194_YESDIG_PCB.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      5mil (0.127mm)                                            Round             13        PTH        0.00inch (0.00mm)
+T2      10mil (0.254mm)                                           Round             40        PTH        0.00inch (0.00mm)
+T3      20mil (0.508mm)                                           Round             5         PTH        0.00inch (0.00mm)
+T4      28mil (0.711mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T5      35mil (0.9mm)                                             Round             40        PTH        0.00inch (0.00mm)
+T6      40mil (1.02mm)                                            Round             9         PTH        0.00inch (0.00mm)
+T7      65mil (1.65mm)                                            Round             5         PTH        0.00inch (0.00mm)
+T8      100mil (2.54mm)                                           Round             2         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              122
+
+Total Processing Time (hh:mm:ss) : 00:00:00
