@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Projects\194_pcb\YesDigital\EE194_YESDIG_PCB.PcbDoc
-Date     : 3/14/2018
-Time     : 8:15:07 PM
+Date     : 3/15/2018
+Time     : 2:27:10 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (InPolygon),(All)
 Rule Violations :0
@@ -65,4 +65,4 @@ Rule Violations :0
 
 Violations Detected : 8
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01

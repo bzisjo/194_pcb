@@ -144,174 +144,346 @@ DocumentPath=OutJob\3-14-1\BOM\Bill of Materials-EE194_YesDig_PCB.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=OutJob\BOM\Bill of Materials-EE194_YesDig_PCB.xlsx
+DocumentPath=OutJob\3-14-2\BOM\Bill of Materials-EE194_YesDig_PCB.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for EE194_PCB\Design Rule Check - EE194_PCB.html
+DocumentPath=OutJob\3-14-3\BOM\Bill of Materials-EE194_YesDig_PCB.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for EE194_YesDig_PCB\Design Rule Check - EE194_YESDIG_PCB.html
+DocumentPath=OutJob\BOM\Bill of Materials-EE194_YesDig_PCB.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=OutJob\3-14-1\NC Drill\EE194_YESDIG_PCB.DRR
+DocumentPath=Project Outputs for EE194_PCB\Design Rule Check - EE194_PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=OutJob\NC Drill\EE194_YESDIG_PCB.DRR
+DocumentPath=Project Outputs for EE194_YesDig_PCB\Design Rule Check - EE194_YESDIG_PCB.html
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.EXTREP
+DocumentPath=OutJob\3-14-1\NC Drill\EE194_YESDIG_PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.EXTREP
+DocumentPath=OutJob\3-14-2\NC Drill\EE194_YESDIG_PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GBL
+DocumentPath=OutJob\3-14-3\NC Drill\EE194_YESDIG_PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GBL
+DocumentPath=OutJob\NC Drill\EE194_YESDIG_PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GBS
+DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GBS
+DocumentPath=OutJob\3-14-2\Gerber\EE194_YESDIG_PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GD1
+DocumentPath=OutJob\3-14-3\Gerber\EE194_YESDIG_PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GD1
+DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GG1
+DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GG1
+DocumentPath=OutJob\3-14-2\Gerber\EE194_YESDIG_PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GKO
+DocumentPath=OutJob\3-14-3\Gerber\EE194_YESDIG_PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GKO
+DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GM1
+DocumentPath=OutJob\3-14-3\Gerber\EE194_YESDIG_PCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GM1
+DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GM13
+DocumentPath=OutJob\3-14-2\Gerber\EE194_YESDIG_PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GM13
+DocumentPath=OutJob\3-14-3\Gerber\EE194_YESDIG_PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GM15
+DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GM15
+DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GPB
+DocumentPath=OutJob\3-14-2\Gerber\EE194_YESDIG_PCB.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GPB
+DocumentPath=OutJob\3-14-3\Gerber\EE194_YESDIG_PCB.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GPT
+DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GPT
+DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GTL
+DocumentPath=OutJob\3-14-2\Gerber\EE194_YESDIG_PCB.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GTL
+DocumentPath=OutJob\3-14-3\Gerber\EE194_YESDIG_PCB.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GTO
+DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GTO
+DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GTP
+DocumentPath=OutJob\3-14-2\Gerber\EE194_YESDIG_PCB.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GTP
+DocumentPath=OutJob\3-14-3\Gerber\EE194_YESDIG_PCB.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GTS
+DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GTS
+DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=OutJob\3-14-1\NC Drill\EE194_YESDIG_PCB.LDP
+DocumentPath=OutJob\3-14-2\Gerber\EE194_YESDIG_PCB.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=OutJob\NC Drill\EE194_YESDIG_PCB.LDP
+DocumentPath=OutJob\3-14-3\Gerber\EE194_YESDIG_PCB.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.REP
+DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.REP
+DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.RUL
+DocumentPath=OutJob\3-14-2\Gerber\EE194_YESDIG_PCB.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.RUL
+DocumentPath=OutJob\3-14-3\Gerber\EE194_YESDIG_PCB.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=OutJob\3-14-1\NC Drill\EE194_YESDIG_PCB.TXT
+DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument44]
+DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=OutJob\3-14-2\Gerber\EE194_YESDIG_PCB.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=OutJob\3-14-3\Gerber\EE194_YESDIG_PCB.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=OutJob\3-14-2\Gerber\EE194_YESDIG_PCB.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=OutJob\3-14-3\Gerber\EE194_YESDIG_PCB.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=OutJob\3-14-2\Gerber\EE194_YESDIG_PCB.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=OutJob\3-14-3\Gerber\EE194_YESDIG_PCB.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=OutJob\3-14-2\Gerber\EE194_YESDIG_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=OutJob\3-14-3\Gerber\EE194_YESDIG_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=OutJob\3-14-2\Gerber\EE194_YESDIG_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=OutJob\3-14-3\Gerber\EE194_YESDIG_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=OutJob\3-14-2\Gerber\EE194_YESDIG_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=OutJob\3-14-3\Gerber\EE194_YESDIG_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=OutJob\3-14-2\Gerber\EE194_YESDIG_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=OutJob\3-14-3\Gerber\EE194_YESDIG_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=OutJob\3-14-1\NC Drill\EE194_YESDIG_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=OutJob\3-14-2\NC Drill\EE194_YESDIG_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=OutJob\3-14-3\NC Drill\EE194_YESDIG_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=OutJob\NC Drill\EE194_YESDIG_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=OutJob\3-14-2\Gerber\EE194_YESDIG_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=OutJob\3-14-3\Gerber\EE194_YESDIG_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=OutJob\3-14-1\Gerber\EE194_YESDIG_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=OutJob\3-14-2\Gerber\EE194_YESDIG_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=OutJob\3-14-3\Gerber\EE194_YESDIG_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=OutJob\Gerber\EE194_YESDIG_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=OutJob\3-14-1\NC Drill\EE194_YESDIG_PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=OutJob\3-14-2\NC Drill\EE194_YESDIG_PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=OutJob\3-14-3\NC Drill\EE194_YESDIG_PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument87]
 DocumentPath=OutJob\NC Drill\EE194_YESDIG_PCB.TXT
 DItemRevisionGUID=
 
