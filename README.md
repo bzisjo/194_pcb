@@ -1,3 +1,3 @@
 # PCB & Pinout Info for the EE194 SP17 Tapeout (SoC Monkey)
 
-The actual layout can be found in the YesDigital folder, and the pinout_Edward.xls lists the pinouts of the chip itself.
+Open **EE194_YESDIG_PCB.PrjPCB** in Altium to view everything related to this PCB. The gerbers submitted for fabrication is in **/OutJob/3-14-3**.

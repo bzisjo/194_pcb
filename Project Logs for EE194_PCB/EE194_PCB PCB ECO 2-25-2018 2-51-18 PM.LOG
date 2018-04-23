@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=SCIO0133 Pin=P6-4
-Removed Pin From Net: NetName=LOAD33 Pin=P6-5
-Removed Pin From Net: NetName=SC_MUX_SEL33 Pin=P6-8
-Added Pin To Net: NetName=SCIO0133 Pin=P6-3
-Added Pin To Net: NetName=LOAD33 Pin=P6-4
-Added Pin To Net: NetName=SC_MUX_SEL33 Pin=P6-5
